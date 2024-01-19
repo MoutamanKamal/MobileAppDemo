@@ -1,0 +1,41 @@
+{
+  "countries": {
+    "AE": "United Arab Emirates",
+    "US": "United States of America",
+    "UK": "United Kingdom",
+    "IN": "India"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Spanish",
+    "de": "Deutsch"
+  },
+  "signup": {
+    "title": "Sign Up",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "buttonLabel": "Sign Up",
+    "signinLink": "Already have an account? ",
+    "signinHere": "Sign in here"
+  },
+  "signin": {
+    "title": "Sign In",
+    "username": "Username",
+    "password": "Password",
+    "buttonLabel": "Sign In",
+    "signupLink": "Don't have an account? ",
+    "signupHere": "Sign up here"
+  },
+  "details": {
+    "title": "Details"
+  },
+  "validationErrors": {
+    "username": {
+      "AE": "Username must contain at least one number and be at least 5 characters long",
+      "IN": "Username must start with a letter, contain at least one uppercase letter and be at least 6 characters long",
+      "US": "Username must contain at least one uppercase letter and be at least 6 characters long",
+      "UK": "Username must contain at least one number and be at least 7 characters long"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "countries": {
+    "AE": "Vereinigte Arabische Emirate",
+    "US": "Vereinigte Staaten",
+    "UK": "Vereinigtes Königreich",
+    "IN": "Indien"
+  },
+  "languages": {
+    "en": "Englisch",
+    "es": "Spanisch",
+    "de": "Deutsch"
+  },
+  "signup": {
+    "title": "Anmelden",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "email": "Email",
+    "buttonLabel": "Anmelden",
+    "signinLink": "Haben Sie bereits ein Konto? ",
+    "signinHere": "hier anmelden"
+  },
+  "signin": {
+    "title": "Anmelden",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "buttonLabel": "Anmelden",
+    "signupLink": "Haben Sie kein Konto? ",
+    "signupHere": "Hier anmelden"
+  },
+  "details": {
+    "title": "Einzelheiten"
+  },
+  "validationErrors": {
+    "username": {
+      "AE": "Benutzername muss mindestens eine Zahl enthalten und mindestens 5 Zeichen lang sein",
+      "IN": "Benutzername muss mit einem Buchstaben beginnen, mindestens einen Großbuchstaben enthalten und mindestens 6 Zeichen lang sein",
+      "US": "Benutzername muss mindestens einen Großbuchstaben enthalten und mindestens 6 Zeichen lang sein",
+      "UK": "Benutzername muss mindestens eine Zahl enthalten und mindestens 7 Zeichen lang sein"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "countries": {
+    "AE": "Emiratos Árabes Unidos",
+    "US": "Estados Unidos de América",
+    "UK": "Reino Unido",
+    "IN": "India"
+  },
+  "languages": {
+    "en": "Inglés",
+    "es": "Español",
+    "de": "Alemán"
+  },
+  "signup": {
+    "title": "Registrarse",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "email": "Correo electrónico",
+    "buttonLabel": "Registrarse",
+    "signinLink": "¿Ya tienes una cuenta? ",
+    "signinHere": "Inicia sesión aquí"
+  },
+  "signin": {
+    "title": "Iniciar sesión",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "buttonLabel": "Iniciar sesión",
+    "signupLink": "¿No tienes una cuenta? ",
+    "signupHere": "Regístrate aquí"
+  },
+  "details": {
+    "title": "Detalles"
+  },
+  "validationErrors": {
+    "username": {
+      "AE": "El nombre de usuario debe contener al menos un número y tener al menos 5 caracteres",
+      "IN": "El nombre de usuario debe comenzar con una letra, contener al menos una letra mayúscula y tener al menos 6 caracteres",
+      "US": "El nombre de usuario debe contener al menos una letra mayúscula y tener al menos 6 caracteres",
+      "UK": "El nombre de usuario debe contener al menos un número y tener al menos 7 caracteres"
+    }
+  }
+}
